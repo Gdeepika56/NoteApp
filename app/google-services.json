@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "692398011146",
+    "project_id": "authenticationproject-4031e",
+    "storage_bucket": "authenticationproject-4031e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692398011146:android:a1be201d4651bdf43d40f3",
+        "android_client_info": {
+          "package_name": "com.example.authmvvmjetpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692398011146-8k73t1fclk2q2cjun9mgcl6be82rdo3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVH7LU7biIC57iB7eaSD_w29YmdWeAfk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692398011146-8k73t1fclk2q2cjun9mgcl6be82rdo3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692398011146:android:63d146ed11954b1b3d40f3",
+        "android_client_info": {
+          "package_name": "com.example.jetpacknotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692398011146-8k73t1fclk2q2cjun9mgcl6be82rdo3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVH7LU7biIC57iB7eaSD_w29YmdWeAfk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692398011146-8k73t1fclk2q2cjun9mgcl6be82rdo3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
